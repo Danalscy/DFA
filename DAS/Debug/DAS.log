@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(455): warning C4129: '(': unrecognized character escape sequence
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(358): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(379): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(425): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(428): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(448): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(448): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(463): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(463): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(562): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+c:\users\lenovo_t510\documents\visual studio 2015\projects\das\das\MyForm.h(562): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+MyForm.obj : warning LNK4248: unresolved typeref token (01000011) for 'GVC_s'; image may not run
+  DAS.vcxproj -> C:\Users\lenovo_T510\Documents\Visual Studio 2015\Projects\DAS\Debug\DAS.exe
